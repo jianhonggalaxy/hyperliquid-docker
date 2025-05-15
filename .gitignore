@@ -1,5 +1,5 @@
-.env
-hyperliquid-data/
+.env*
 *.swp
-*.swo
-*~
+*.bak
+*.original
+custom.yml
